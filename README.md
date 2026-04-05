@@ -1,4 +1,4 @@
-# AuraShop - AI-Driven Online Shopping Management System
+# AuraShop - AI-Driven Online E-Commerce Management System
 
 Welcome to **AuraShop**, a full-stack, intelligent e-commerce platform that goes far beyond basic keyword search. By merging an extremely aesthetic, glassmorphic UI with dynamic AI logic, this platform proactively understands user intent, rates the credibility of reviews, and actively steps in to minimize buyer's regret.
 
